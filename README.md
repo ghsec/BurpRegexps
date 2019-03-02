@@ -1,2 +1,2 @@
 # BurpRegexps
-Regexps for recon anddetecting Vulns by Burp( community | Pro ) version 
+Regexps for recon and detecting vulns by Burp( community | Pro ) version 
